@@ -11,20 +11,13 @@ from auxiliar import carrega_dataset
 st.markdown("""# Projeto Modulo4
 Análise Exploratória de uma campanha de marketing de um banco privado 
 
-Turma: 892 - Lets Code - Suzano
+Turma: 892 - Ada - Lets Code - Suzano
 
 Alunos: 
 
 Paulo Roberto P. Alves Jr
 
 Lucas Guimarães 
-
-Mateus Paranhos
-
-Francisco
-
-Jean Kalyson
-
 
    ---
     """)
